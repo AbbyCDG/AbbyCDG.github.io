@@ -39,4 +39,8 @@
        display: block;
        padding: 5px;
      }
+      body {
+        background: white;
+      }
+    }
      </body>
