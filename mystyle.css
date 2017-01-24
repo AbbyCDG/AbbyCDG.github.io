@@ -39,41 +39,4 @@ body>
        display: block;
        padding: 5px;
      }
-      body {
-        background: white;
-      }
-    }
-#hobbies {
-	background: rgb(88, 62, 96);
-	
-	color: white;
-}
-	
-	#skills {
-		background:rgb(88, 62, 96);
-		color: white;
-	}
-
-#name {
-	color: white;
-	text-align: center;
-}
-
-#table{
-	color: white;
-}
-p {
- color: rgb(54,21,30);	
-}
-
-#highschool {
-	background:rgb(88, 62, 96);
-	color: white;
-}
-#name{
-text-align: center;
-}
-#abby {
-text-align: center;
-}
-
+     </body>
