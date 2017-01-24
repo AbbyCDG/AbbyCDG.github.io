@@ -18,7 +18,7 @@ li {
   padding: 0px 10px 0px 10px;
   
 }
- header {
+ body{
       text-align:center;
       background: url("http://dash.ga.co/assets/jeff-bg.png");
       background-size: cover;
@@ -68,6 +68,7 @@ li {
   padding: 0px 10px 0px 10px;
   
 }
+/body
 
 }
 a{
