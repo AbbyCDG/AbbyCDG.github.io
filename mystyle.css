@@ -1,2 +1,41 @@
+body{
+	background: rgb(166, 196, 212) ;
+}
+#hobbies {
+	background: rgb(88, 62, 96);
+	
+	color: white;
+}
+	
+	#skills {
+		background:rgb(88, 62, 96);
+		color: white;
+	}
 
+#name {
+	color: white;
+}
 
+#table{
+	color: white;
+}
+p {
+ color: rgb(54,21,30);	
+}
+
+#highschool {
+	background:rgb(88, 62, 96);
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	background:rgb(88, 62, 96);
+}
+
+ img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+	  
